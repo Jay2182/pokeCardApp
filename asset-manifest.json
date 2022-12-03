@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokeCardApp/static/css/main.d48dd73c.css",
+    "main.js": "/pokeCardApp/static/js/main.ecee6c36.js",
+    "index.html": "/pokeCardApp/index.html",
+    "main.d48dd73c.css.map": "/pokeCardApp/static/css/main.d48dd73c.css.map",
+    "main.ecee6c36.js.map": "/pokeCardApp/static/js/main.ecee6c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48dd73c.css",
+    "static/js/main.ecee6c36.js"
+  ]
+}
