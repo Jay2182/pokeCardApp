@@ -1,0 +1,44 @@
+.poke-card {
+    padding: 1rem;
+    border: 2px solid var(--secondary-text-color);
+    border-radius: 10px;
+    background-color: rgba(225, 151, 32, 0.5);
+}
+
+.poke-name {
+    text-align: center;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border-bottom: 2px solid var(--secondary-text-color);
+}
+
+.img-container {
+    padding: 1rem 0;
+    width: 100%;
+    height: 15rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.poke-image {
+    max-width: 10rem;
+}
+
+.poke-table {
+    max-width: 10rem;
+    margin: 0 auto;
+}
+
+td {
+    min-width: 5rem;
+}
+
+.poke-title {
+    font-weight: bold;
+}
+
+.poke-table > table {
+    width: 100%;
+    bottom: 0;
+}
